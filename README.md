@@ -1,0 +1,2 @@
+# rabbitmq-prototype
+RabbitMQ Prototype
